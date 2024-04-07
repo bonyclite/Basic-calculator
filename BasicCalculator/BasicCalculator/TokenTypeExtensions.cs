@@ -1,4 +1,4 @@
-namespace LeetCode.BasicCalculator;
+namespace BasicCalculator.BasicCalculator;
 
 public static class TokenTypeExtensions
 {

@@ -1,6 +1,6 @@
-using LeetCode.BasicCalculator.Nodes;
+using BasicCalculator.BasicCalculator.Nodes;
 
-namespace LeetCode.BasicCalculator;
+namespace BasicCalculator.BasicCalculator;
 
 public class Parser(IReadOnlyList<Token> tokens)
 {

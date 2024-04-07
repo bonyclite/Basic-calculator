@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Text;
 
-namespace LeetCode.BasicCalculator;
+namespace BasicCalculator.BasicCalculator;
 
 public class Lexer(string str) : IEnumerator<Token>, IEnumerable<Token>
 {

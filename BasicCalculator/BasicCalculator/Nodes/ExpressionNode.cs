@@ -1,3 +1,3 @@
-namespace LeetCode.BasicCalculator.Nodes;
+namespace BasicCalculator.BasicCalculator.Nodes;
 
 public record ExpressionNode;
